@@ -1,16 +1,7 @@
 # polines_news
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nama : Syalita Widyandini,
+NIM : 3.34.21.3.23,
+No Absen : 20,
+Kelas : IK-2D
+## Screenshot
+![Screenshot (1665)](https://user-images.githubusercontent.com/117131647/201940909-9cbb588d-9505-4df5-a8e3-b2f7b940f598.png)
